@@ -1,5 +1,5 @@
 # ExamenSalinas
-En la aplicación móvil faltó la visualización de videos en la interfaz de detalles y que la aplicación funcionara de forma offline.
+Por cuestiones de tiempo en la aplicación móvil me faltó la visualización de videos en la interfaz de detalles y que la aplicación funcionara de forma offline.
 
 Para resolver esto lo que podría hacer es guardar los datos de las películas en una base de datos interna usando la librería de Room, y la primera vez que se haga 
 las diversas consultas al API, los datos del response se vayan almacenando dentro de la base de datos. Así en caso de que no haya internet la aplicación pueda consultar
