@@ -2,6 +2,7 @@ package com.example.examengruposalinaspeliculas.framework.ui
 
 import android.app.Activity
 import android.content.Context
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.view.View
@@ -59,8 +60,15 @@ class MainActivity : AppCompatActivity() {
         }
 
 
-        moviesAdapter = MoviesListAdapter(onMoviesSelected = {
-            Toast.makeText(context, "CLICK!!!", Toast.LENGTH_LONG).show()
+        moviesAdapter = MoviesListAdapter(onMoviesSelected = { result ->
+            val pasar:Intent = Intent(context, MoviesDetalles::class.java)
+            pasar.putExtra("imagen", result.poster_path)
+            pasar.putExtra("titulo", result.title)
+            pasar.putExtra("fecha", result.release_date)
+            pasar.putExtra("idioma", result.original_language)
+            pasar.putExtra("descripcion", result.overview)
+            pasar.putExtra("popularidad", result.popularity.toString())
+            startActivity(pasar)
         })
 
         binding.list.apply {

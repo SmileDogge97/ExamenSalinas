@@ -4,14 +4,14 @@
       <root url="file://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/res" />
       <root url="jar://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/685eb50cea51766960ed041c2242c830/transformed/fragment-ktx-1.4.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.fragment/fragment-ktx/1.4.1/4e12207413e48643ad83b250e97550d291c58598/fragment-ktx-1.4.1-sources.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment-ktx/1.4.1/4e12207413e48643ad83b250e97550d291c58598/fragment-ktx-1.4.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.fragment/fragment-ktx/1.4.1/4e12207413e48643ad83b250e97550d291c58598/fragment-ktx-1.4.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
