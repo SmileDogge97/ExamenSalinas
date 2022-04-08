@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:dagger-lint-aar:2.37@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/b154cef6d7ff26cae57f725c4621467f/transformed/dagger-lint-aar-2.37/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/b154cef6d7ff26cae57f725c4621467f/transformed/dagger-lint-aar-2.37/res" />
+      <root url="file://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/b154cef6d7ff26cae57f725c4621467f/transformed/dagger-lint-aar-2.37/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b154cef6d7ff26cae57f725c4621467f/transformed/dagger-lint-aar-2.37/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b154cef6d7ff26cae57f725c4621467f/transformed/dagger-lint-aar-2.37/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b154cef6d7ff26cae57f725c4621467f/transformed/dagger-lint-aar-2.37/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.services:storage:1.4.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8b97fdfc7020460bb4c70b5e34c39233/transformed/storage-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/8b97fdfc7020460bb4c70b5e34c39233/transformed/storage-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/c5e0af265c40da4c69b5dbe315d93972/transformed/storage-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/73cdc8ff9776e581c98e563ed737d846/transformed/storage-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/73cdc8ff9776e581c98e563ed737d846/transformed/storage-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/transforms-3/73cdc8ff9776e581c98e563ed737d846/transformed/storage-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/73cdc8ff9776e581c98e563ed737d846/transformed/storage-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/73cdc8ff9776e581c98e563ed737d846/transformed/storage-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/73cdc8ff9776e581c98e563ed737d846/transformed/storage-1.4.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../cursos/Udemy/Kotlin/aplicacionContactos/.gradle/7.0.2/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.0/27088f46bc0ab94523a20ccc56aa27e142662396/storage-1.4.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.0/27088f46bc0ab94523a20ccc56aa27e142662396/storage-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

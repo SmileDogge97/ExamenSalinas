@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filtros_array">
+        <item>Playing Now</item>
+        <item>Most Popular</item>
+    </string-array>
+</resources>
