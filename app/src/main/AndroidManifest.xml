@@ -14,6 +14,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ExamenGrupoSalinasPeliculas">
         <activity
+            android:name=".framework.ui.MoviesDetalles"
+            android:exported="false" />
+        <activity
+            android:name=".framework.ui.MoviesDetail"
+            android:exported="false" />
+        <activity
             android:name=".framework.ui.MainActivity"
             android:exported="true">
             <intent-filter>
