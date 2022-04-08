@@ -115,6 +115,7 @@ class MainActivity : AppCompatActivity() {
 
     fun showLoader() {
         with(binding) {
+            txtMessage.visibility = View.GONE
             list.visibility = View.GONE
             pCargar.visibility = View.VISIBLE
         }
@@ -144,6 +145,7 @@ class MainActivity : AppCompatActivity() {
         with(binding) {
             list.visibility = View.VISIBLE
             pCargar.visibility = View.GONE
+            txtMessage.visibility = View.GONE
         }
     }
 
